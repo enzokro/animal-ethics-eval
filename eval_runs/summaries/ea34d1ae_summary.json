@@ -1,0 +1,13 @@
+{
+  "run_id": "ea34d1ae",
+  "model_id": "mock-model-v1",
+  "timestamp": "2025-05-24T20:20:30.823320",
+  "full_file": "eval_runs/runs/mock-model-v1_ea34d1ae_20250524_202030.json",
+  "key_metrics": {
+    "total_responses": 54,
+    "hierarchy_correlation": 0.9933992677987817,
+    "evaluation_duration": 11.010723,
+    "n_animals": 3,
+    "n_probes": 9
+  }
+}

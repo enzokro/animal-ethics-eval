@@ -1,0 +1,13 @@
+{
+  "run_id": "27ea7fc8",
+  "model_id": "quick-eval",
+  "timestamp": "2025-05-24T20:20:25.888233",
+  "full_file": "eval_runs/runs/quick-eval_27ea7fc8_20250524_202025.json",
+  "key_metrics": {
+    "total_responses": 25,
+    "hierarchy_correlation": 0.9402052824331173,
+    "evaluation_duration": 4.934436,
+    "n_animals": 5,
+    "n_probes": 5
+  }
+}

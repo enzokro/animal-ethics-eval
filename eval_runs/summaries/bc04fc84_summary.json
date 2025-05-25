@@ -1,0 +1,13 @@
+{
+  "run_id": "bc04fc84",
+  "model_id": "claude-3-5-sonnet-latest",
+  "timestamp": "2025-05-24T20:20:42.074645",
+  "full_file": "eval_runs/runs/claude-3-5-sonnet-latest_bc04fc84_20250524_202042.json",
+  "key_metrics": {
+    "total_responses": 10,
+    "hierarchy_correlation": 1.0000000000000033,
+    "evaluation_duration": 55.062994,
+    "n_animals": 2,
+    "n_probes": 5
+  }
+}
