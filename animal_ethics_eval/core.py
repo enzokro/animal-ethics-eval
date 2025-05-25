@@ -6,8 +6,6 @@ These foundational classes represent the key entities in our evaluation system:
 - Ethics probes (question templates)  
 - LLM responses
 - Complete evaluation runs
-
-Following Jeremy Howard's approach: start simple, grow naturally.
 """
 
 from dataclasses import dataclass, field

@@ -13,7 +13,7 @@ Key Components:
 - EvalStorage: Persists results for longitudinal analysis
 
 Design Philosophy:
-Following Jeremy Howard's iterative approach - start simple, grow naturally.
+Start simple, grow naturally.
 Focus on getting meaningful results quickly, then refine and expand.
 
 Example Usage:

@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """
-Demo script for the Animal Ethics Evaluation Harness
-
 This script demonstrates the basic usage of our evaluation system:
 1. Setting up an evaluator with mock LLM
 2. Running a quick evaluation
@@ -238,7 +236,7 @@ def main():
         print(f"  1. Get an Anthropic API key from: https://console.anthropic.com/")
         print(f"  2. Add to .env file: ANTHROPIC_API_KEY=your_key_here")
         print(f"  3. Install dependencies: pip install anthropic python-dotenv")
-        print(f"  4. Re-run this demo to see Claude in action!")
+        print(f"  4. Re-run this to evaluate Claude.")
 
 if __name__ == "__main__":
     main() 
